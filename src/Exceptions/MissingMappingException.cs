@@ -1,9 +1,9 @@
-﻿namespace MapperExample.Exceptions
+﻿namespace SimpleMapper.Exceptions
 {
     using System;
     using System.Runtime.Serialization;
 
-    public class MissingMappingException : Exception
+    internal class MissingMappingException : Exception
     {
         public MissingMappingException(Type sourceType, Type targetType)
             : base($"Missing mapping between source {sourceType.Name} and target {targetType.Name}")

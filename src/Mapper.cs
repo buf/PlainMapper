@@ -1,4 +1,4 @@
-﻿namespace MapperExample
+﻿namespace SimpleMapper
 {
     using System;
     using Exceptions;

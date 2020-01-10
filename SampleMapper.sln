@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperExample", "MapperExample\MapperExample.csproj", "{CC5B55CD-830C-4168-92BE-3819C52BCDEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleMapper", "src\SimpleMapper.csproj", "{38BFF504-C2EE-4D86-ADB2-3FCAB93C4A61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CC5B55CD-830C-4168-92BE-3819C52BCDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC5B55CD-830C-4168-92BE-3819C52BCDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC5B55CD-830C-4168-92BE-3819C52BCDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC5B55CD-830C-4168-92BE-3819C52BCDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BFF504-C2EE-4D86-ADB2-3FCAB93C4A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BFF504-C2EE-4D86-ADB2-3FCAB93C4A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BFF504-C2EE-4D86-ADB2-3FCAB93C4A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BFF504-C2EE-4D86-ADB2-3FCAB93C4A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

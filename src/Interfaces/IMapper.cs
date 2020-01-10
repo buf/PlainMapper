@@ -1,4 +1,4 @@
-﻿namespace MapperExample.Interfaces
+﻿namespace SimpleMapper.Interfaces
 {
     public interface IMapper
     {
