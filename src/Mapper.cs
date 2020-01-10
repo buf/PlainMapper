@@ -1,4 +1,4 @@
-﻿namespace SimpleMapper
+﻿namespace PlainMapper
 {
     using System;
     using Exceptions;

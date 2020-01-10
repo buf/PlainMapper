@@ -1,4 +1,4 @@
-﻿namespace SimpleMapper.Interfaces
+﻿namespace PlainMapper.Interfaces
 {
     public interface IMapping<in TSource, out TTarget>
     {

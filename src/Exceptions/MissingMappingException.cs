@@ -1,4 +1,4 @@
-﻿namespace SimpleMapper.Exceptions
+﻿namespace PlainMapper.Exceptions
 {
     using System;
     using System.Runtime.Serialization;

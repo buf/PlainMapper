@@ -1,6 +1,5 @@
-﻿namespace SimpleMapper.Extensions
+﻿namespace PlainMapper.Extensions
 {
-    using System.Collections;
     using System.Collections.Generic;
     using System.Linq;
     using System.Reflection;
